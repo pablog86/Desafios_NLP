@@ -162,3 +162,5 @@ cython_debug/
 .ruff_cache/
 .pypirc
 .DS_Store
+desafio2/clase/*.tsv
+desafio2/clase/*.pkl
