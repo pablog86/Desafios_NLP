@@ -164,3 +164,7 @@ cython_debug/
 .DS_Store
 desafio2/clase/*.tsv
 desafio2/clase/*.pkl
+
+desafio3/lightning_logs
+desafio3/old
+desafio3/jupyter_notebooks_clase_4
