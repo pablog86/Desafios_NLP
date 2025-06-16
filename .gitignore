@@ -171,6 +171,7 @@ desafio3/jupyter_notebooks_clase_4
 
 desafio4/*.pkl
 desafio4/*.h5
+desafio4/*.keras
 desafio4/clase/spa-eng
 desafio4/clase/*.zip
 desafio4/clase/*.bin
